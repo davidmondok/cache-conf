@@ -1,7 +1,5 @@
 'use strict';
-const path = require('path');
 const Conf = require('conf');
-const pkgUp = require('pkg-up');
 
 class CacheConf extends Conf {
 
